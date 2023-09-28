@@ -1,0 +1,14 @@
+﻿  GameManager.cpp
+D:\1092(大一下)\chess final\chess\GameManager.cpp(753,10): warning C4101: 's': 未參考的區域變數
+D:\1092(大一下)\chess final\chess\GameManager.cpp(1661,10): warning C4101: 's': 未參考的區域變數
+  main.cpp
+  Player.cpp
+  Viewer.cpp
+  正在產生程式碼
+D:\1092(大一下)\chess final\chess\GameManager.cpp(96): warning C4715: 'GameManager::chooseChessToMove': 不是所有控制路徑都傳回值
+D:\1092(大一下)\chess final\chess\GameManager.cpp(124): warning C4715: 'GameManager::chooseDestinationMoveTo': 不是所有控制路徑都傳回值
+  345 of 354 functions (97.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  chess.vcxproj -> D:\1092(大一下)\chess final\chess\x64\Release\chess.exe

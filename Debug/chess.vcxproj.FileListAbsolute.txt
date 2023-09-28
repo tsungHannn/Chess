@@ -1,0 +1,3 @@
+C:\Users\s2001\source\repos\chess\Debug\chess.exe
+C:\Users\s2001\source\repos\chess\Debug\chess.pdb
+C:\Users\88691\Desktop\chess\Debug\chess.exe

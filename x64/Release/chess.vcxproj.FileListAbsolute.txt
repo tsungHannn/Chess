@@ -1,0 +1,3 @@
+C:\Users\USER\Downloads\chess\x64\Release\chess.exe
+C:\Users\John\Desktop\chess final\chess\x64\Release\chess.exe
+D:\1092(大一下)\chess final\chess\x64\Release\chess.exe

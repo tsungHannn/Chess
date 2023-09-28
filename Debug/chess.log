@@ -1,0 +1,8 @@
+﻿  GameManager.cpp
+C:\Users\88691\Desktop\chess\GameManager.cpp(255,15): warning C4018: '<': signed/unsigned 不相符
+C:\Users\88691\Desktop\chess\GameManager.cpp(517,16): warning C4018: '<': signed/unsigned 不相符
+C:\Users\88691\Desktop\chess\GameManager.cpp(688,10): warning C4101: 's': 未參考的區域變數
+C:\Users\88691\Desktop\chess\GameManager.cpp(1355,10): warning C4101: 's': 未參考的區域變數
+C:\Users\88691\Desktop\chess\GameManager.cpp(121): warning C4715: 'GameManager::chooseDestinationMoveTo': 不是所有控制路徑都傳回值
+C:\Users\88691\Desktop\chess\GameManager.cpp(96): warning C4715: 'GameManager::chooseChessToMove': 不是所有控制路徑都傳回值
+  chess.vcxproj -> C:\Users\88691\Desktop\chess\Debug\chess.exe
